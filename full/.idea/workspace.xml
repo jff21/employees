@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78c31fbc-bc2f-4f97-a10f-1b35637e0a95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/DTO/EmployeeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/Model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/exceptions/ApiExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/exceptions/ApiExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/exceptions/ApiRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/repository/EmployeeRepoCustum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/repository/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/services/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/services/ReportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/services/ReportServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/main/resources/employee.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/test/java/com/backend/full/repository/EmployeeRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/test/java/com/backend/full/services/EmployeeServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full/src/test/java/com/backend/full/services/TeamServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/full/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/DTO/SearchContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/DTO/SearchContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/FullApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/FullApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/Model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/Model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/Model/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/Model/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/controller/TeamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/controller/TeamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/exceptions/TeamNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/exceptions/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/services/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/services/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/java/com/backend/full/services/TeamService.java" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/java/com/backend/full/services/TeamServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/full/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/full" />
+  </component>
+  <component name="ProjectId" id="2ONWhw6kgcY1MwIVFpCtiDfykZA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78c31fbc-bc2f-4f97-a10f-1b35637e0a95" name="Changes" comment="" />
+      <created>1681401643828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681401643828</updated>
+      <workItem from="1681401645880" duration="16000" />
+      <workItem from="1681819626184" duration="36000" />
+      <workItem from="1681884976195" duration="399000" />
+      <workItem from="1686308610513" duration="129000" />
+      <workItem from="1689528367760" duration="205000" />
+      <workItem from="1689528592727" duration="518000" />
+      <workItem from="1692734961446" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
